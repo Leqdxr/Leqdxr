@@ -1,16 +1,25 @@
-## Hi there 👋
+<h1 align="center">Aagaman</h1>
 
-<!--
-**Leqdxr/Leqdxr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2 align="center">👋 About Me</h2>
 
-Here are some ideas to get you started:
+<p align="center">
+  Undergraduate computer science student and frontend developer.<br />
+  I like building clean, responsive and accessible interfaces and turning designs into working products.<br />
+  I also enjoy tinkering with Linux desktops and customizing them
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2 align="center">💻 Tech Stack</h2>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,redux,git,linux,figma&perline=10" alt="tech stack" />
+</p>
+
+<h2 align="center">🐍 Contributions</h2>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Leqdxr/Leqdxr/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Leqdxr/Leqdxr/output/github-snake.svg" />
+    <img alt="contribution snake" src="https://raw.githubusercontent.com/Leqdxr/Leqdxr/output/github-snake-dark.svg" />
+  </picture>
+</p>
